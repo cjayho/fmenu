@@ -1,3 +1,5 @@
+![screenshot](/screenshot.png?raw=true)
+
 # fmenu
 
 console menu implemetation
